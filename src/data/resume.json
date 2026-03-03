@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Aabid Basha Shaik",
+    "title": "DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | GitOps",
+    "summary": "I build the infrastructure that lets engineering teams ship faster, safer, and at scale. As a DevOps Engineer at Uber, I architected cloud development environments (DevPods) used by over 10,000 engineers — cutting onboarding time by 94% and AWS spend by 25%, all while maintaining 99.9% uptime. Before that, I spent 3+ years at L&T Technology Services leading platform bring-up for Qualcomm chipsets, managing complex hardware-software integration from silicon to flashable firmware. My sweet spot is where automation meets reliability: designing Terraform-based multi-environment infrastructure, building CI/CD pipelines that reduce deployment failures, and shipping GitOps workflows with Argo CD and Kubernetes on EKS.",
+    "location": "Saint Louis, Missouri, United States",
+    "email": "shaikaabid2359@gmail.com",
+    "phone": "3148454924",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/aabid2359"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Uber",
+      "role": "DevOps Engineer",
+      "dates": "February 2025 - Present (1 year 2 months)",
+      "location": "California, United States",
+      "bullets": [
+        "Driving developer productivity and cloud reliability at one of the world's most demanding engineering orgs.",
+        "Architected AWS-based DevPod infrastructure serving 10,000+ engineers, slashing environment onboarding time by 94%",
+        "Designed reusable Terraform modules for multi-environment provisioning — improving deployment consistency and security posture across teams",
+        "Built end-to-end CI/CD pipelines that reduced deployment failures by 35% and boosted release velocity by 40%",
+        "Deployed containerized workloads to Amazon EKS using Helm charts; implemented GitOps workflows with Argo CD",
+        "Stood up Prometheus/Grafana observability stack, cutting mean time to detect (MTTD) incidents by 50%",
+        "Optimized Auto Scaling policies, trimming AWS cloud spend by 25% while sustaining 99.9% uptime SLA",
+        "Enforced DevSecOps practices including IAM least-privilege access and automated vulnerability scanning pipelines"
+      ]
+    },
+    {
+      "company": "L&T Technology Services",
+      "role": "Engineer",
+      "dates": "December 2022 - December 2023 (1 year 1 month)",
+      "location": "Bengaluru, Karnataka, India",
+      "bullets": [
+        "Led end-to-end platform bring-up for next-generation Qualcomm chipsets, bridging hardware engineering and software delivery.",
+        "Drove hardware-software integration for new Qualcomm chipset platforms from silicon bring-up to production-ready firmware",
+        "Managed Qualcomm code import workflows into SOMC mirror branches; resolved complex merge conflicts across integration and mainline branches",
+        "Built integrated code pipelines to produce validated, flashable device images for deployment and field testing",
+        "Executed base-up operations from mainline to local integration branches, maintaining code integrity across release cycles",
+        "Owned full Git lifecycle: branch creation, manifest setup, tagging, merging, and source control governance across teams"
+      ]
+    },
+    {
+      "company": "L&T Technology Services",
+      "role": "Associate Engineer",
+      "dates": "October 2020 - December 2022 (2 years 3 months)",
+      "location": "Mysore, Karnataka, India",
+      "bullets": []
+    },
+    {
+      "company": "L&T Technology Services",
+      "role": "Intern",
+      "dates": "July 2020 - October 2020 (4 months)",
+      "location": "Mysore, Karnataka, India",
+      "bullets": []
+    }
+  ],
+  "achievements": [
+    {
+      "metric": "94%",
+      "context": "Cut environment onboarding time by architecting AWS-based DevPod infrastructure serving 10,000+ engineers."
+    },
+    {
+      "metric": "25%",
+      "context": "Trimmed AWS cloud spend by optimizing Auto Scaling policies."
+    },
+    {
+      "metric": "35%",
+      "context": "Reduced deployment failures by building end-to-end CI/CD pipelines."
+    },
+    {
+      "metric": "40%",
+      "context": "Boosted release velocity."
+    },
+    {
+      "metric": "50%",
+      "context": "Cut mean time to detect (MTTD) incidents by standing up Prometheus/Grafana observability stack."
+    },
+    {
+      "metric": "99.9%",
+      "context": "Sustained uptime SLA."
+    }
+  ],
+  "projects": [],
+  "skills": [
+    {
+      "group": "Top Skills",
+      "items": ["Git", "Linux", "Amazon Web Services (AWS)"]
+    },
+    {
+      "group": "Cloud & Infrastructure",
+      "items": ["EKS", "EC2", "Lambda", "RDS", "VPC", "IAM", "Kubernetes", "Terraform", "Helm"]
+    },
+    {
+      "group": "CI/CD & GitOps",
+      "items": ["Jenkins", "GitLab CI/CD", "GitHub Actions", "AWS CodePipeline", "Argo CD"]
+    },
+    {
+      "group": "Observability",
+      "items": ["Prometheus", "Grafana", "ELK"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Saint Louis University",
+      "degree": "Master of Science - MS, Information System",
+      "dates": "2024 - 2025"
+    },
+    {
+      "institution": "Lovely Professional University",
+      "degree": "Bachelor of Technology, Electronics and Communication Engineering",
+      "dates": "2017 - 2021"
+    }
+  ],
+  "certifications": [
+    "AWS DevOps Engineer – Professional",
+    "AWS Solutions Architect – Associate",
+    "CKA",
+    "HashiCorp Terraform Associate",
+    "Theoretical understanding of C",
+    "The C++ Course: Whole New Learning Experience with C++ |CP",
+    "Introduction to Data Analytics",
+    "Learn Google Bard",
+    "Learn Google Bard and Gemini"
+  ],
+  "awards": [],
+  "extra": [
+    "Open to senior DevOps, Platform Engineering, and SRE opportunities. Let's connect.",
+    "DevSecOps mindset: IAM least-privilege, automated vulnerability scanning, and security-first design"
+  ]
+}
